@@ -22,6 +22,9 @@
   </a>
 </p>
 
+---
+
+## About Me
 
 - 📫 Personal Page: [avivsham.github.io](https://avivsham.github.io/)
 - 🎓 MSc student - Electrical Engineering and Data Science.
