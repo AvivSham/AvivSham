@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aviv Shamsian</h1>
+<h1 align="center">Hi 👋, I'm Aviv Shamsian </h1>
+<h3 align="center">Deep Learning Researcher</h3>
 
 <br>
 
@@ -21,7 +22,7 @@
   </a>
 </p>
 
-Here are some ideas to get you started:
+
 - 📫 Personal Page: [avivsham.github.io](https://avivsham.github.io/)
 - 🎓 MSc student - Electrical Engineering and Data Science.
 - 🚧 Currently I'm working on:
