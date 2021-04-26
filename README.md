@@ -29,7 +29,7 @@
 - 📫 Personal Page: [avivsham.github.io](https://avivsham.github.io/)
 - 🎓 MSc student - Electrical Engineering and Data Science.
 - 🚧 Currently I'm working on:
-  - Multi Task Learning (MTL) & Multi Objective Optimization (MTL)
+  - Multi Task Learning (MTL) & Multi Objective Optimization (MOO)
   - Personalized Federated Learning
   - Object tracking under severe conditions
 - 💬 Reach out to me if you:
