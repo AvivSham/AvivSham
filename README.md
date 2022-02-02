@@ -32,6 +32,7 @@
   - Multi Task Learning (MTL) & Multi Objective Optimization (MOO)
   - Personalized Federated Learning
   - Object tracking under severe conditions
+  - Group Activity Recognition (GAR)
 - 💬 Reach out to me if you:
   - Want to collaborate and conduct research.
   - Need help regarding Deep Learning projects.
